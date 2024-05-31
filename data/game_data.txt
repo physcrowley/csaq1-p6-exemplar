@@ -1,0 +1,57 @@
+Dark basement
+
+You are in a dim basement, lit only by the pale glow of the computer screen.
+It has been days since you have seen the sun.
+
+Main floor, Computer, Furnace room
+
+sock, bag of chips
+
+Eww! That's smelly!, All dressed are the best
+
+###
+Main floor
+
+You are on the main floor of the house. It is raining outside, but there is
+an interesting smell coming from the kitchen.
+
+Dark basement, Kitchen
+
+keys
+
+Wonder what this opens?
+
+###
+Kitchen
+
+Mmmmmm, coffee!
+
+Main floor, Dark basement
+
+steaming mug of joe
+
+That's what I needed
+
+###
+Computer
+
+You see a screen with a blinking cursor. It is waiting for your command.
+In fact, it is waiting for you to type `exit`.
+
+Exit
+
+power button
+
+Time for sleep
+
+###
+Furnace room
+
+What a mess! You can't even see the furnace for all the junk in here.
+Oh wait! Is that my old skateboard?
+
+Dark basement
+
+skateboard, broken electronics box
+
+I should take this for a ride, I'm sure this will come in handy one day
