@@ -17,7 +17,12 @@ The game script is at the bottom of the file.
 KNOWN ISSUES:
 - The game could probably use a univeral exit command. It wasn't in the plan, but it would be a nice feature.
 
+Updates:
+- (2024-06-03) Realised I had access to the os module and added screen clearing to the play() loop
+
 """
+
+import os # for clearing the console
 
 # Import data manipulation logic and data from game_files module
 from game_files import load_game
@@ -115,6 +120,8 @@ def play() -> None:
     while room[NAME] != "Computer" or current_move == "power button":
         # the current exit condition is in the Computer room... but the power
         # button item shows a special message before triggering the exit
+
+        os.system("clear") # clear the screen (if on Windows cmd.exe, use 'cls' instead)
 
         # interpret the current move as navigation or item selection
         if current_move in room_names:
